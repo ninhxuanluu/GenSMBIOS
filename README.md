@@ -1,4 +1,4 @@
-# GenSMBIOS
+# GenSMBIOS without install macSerial, working on MacOS.
 Py script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist.
 
 ***
